@@ -1,0 +1,19 @@
+{
+  "name": "byteme",
+  "version": "0.0.1",
+  "description": "REST API for eventfly",
+  "main": "index.js",
+  "author": "Tharaka <tharaka.bimal@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-nodemon": "^2.2.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.4"
+  }
+}
